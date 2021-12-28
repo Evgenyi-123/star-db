@@ -1,0 +1,7 @@
+.navbar-collapse {
+    flex-grow: initial;
+}
+
+.header-logo {
+    font-size: 36px;
+}
